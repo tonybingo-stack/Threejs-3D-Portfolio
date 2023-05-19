@@ -116,55 +116,43 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Senior FullStack Developer",
+    company_name: "Uniq Partner",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2019 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Consult with project managers, business analysis and development teams on development and business plans.",
+      "Provides strategic and technical assistance to Management on architectural strategies by evaluating approaches and alternatives.",
+      "Tested website and performed troubleshooting prior to deployment.",
+      "Handled whole projects from scratch idea to production deployment.",
+      "React/React Native, Vue, NodeJS, C#,.NET, Spring Boot, PostgreSQL, RestAPI, Git, JIRA, SlACK",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "FullStack Developer",
+    company_name: "Uniq Partner",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2015 - Feb 2019",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Leading and managing a team of 4 developers",
+      "Working on integration with REST based company's gateways and third party software",
+      "Working in Agile environment using scrum methodology",
+      "React/React Native, Golang, Drupal, ASP.NET, Google Firebase, Flutter, MySQL, REST API, GIT, JIRA, CONFLUENCE, Linux",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Junior FullStack Developer",
+    company_name: "FUNCTIONEIGHT",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2013 - Jan 2016",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Getting Requirements, Analyzing the Requirements",
+      "Single-handedly building front-end and the back-end of many sites.",
+      "IA CodeIgniter based CMS for Tripzy.ae and a CMS for B3adventures using the PHP CodeIgniter, Bootstrap.",
+      "React/React Native, NodeJS, Google analytics, Django, MySQL, MongoDB, GIT",
     ],
   },
 ];
@@ -172,33 +160,33 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
+      "He always provide excellent, perfect services and have best communication skills.",
+    name: "Blad Morhan",
     designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    company: "Uniq Partner",
+    image: "https://randomuser.me/api/portraits/men/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "I've never met a web developer who truly cares about their clients' success like Florin does.",
+    name: "Charles Lon",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "Uniq Partner",
+    image: "https://randomuser.me/api/portraits/men/9.jpg",
+  },
+  {
+    testimonial:
+      "After Florin optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Jack Lee",
+    designation: "CTO",
+    company: "Functionate",
+    image: "https://randomuser.me/api/portraits/men/8.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Car Seller",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
@@ -211,7 +199,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "C#, .NET",
         color: "pink-text-gradient",
       },
     ],
@@ -219,20 +207,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Tutor System",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables parent search online tutors and let them teach their childrens. Used React for frontend and java, Spring boot framework for backend",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "strap api",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "spring boot",
         color: "pink-text-gradient",
       },
     ],
@@ -249,7 +237,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "sass",
         color: "green-text-gradient",
       },
       {
