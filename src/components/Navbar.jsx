@@ -62,9 +62,9 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
+          <img src={logo} alt="logo" className="w-2\10 h-10 object-contain rounded-[50%] mr-2" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            Florin &nbsp;
+            Nemanja &nbsp;
             <span className="sm:block hidden"> | Personal Portfolio</span>
           </p>
         </Link>

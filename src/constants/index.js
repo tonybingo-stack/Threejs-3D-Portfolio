@@ -168,7 +168,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Florin does.",
+      "I've never met a web developer who truly cares about their clients' success like Nemanja does.",
     name: "Charles Lon",
     designation: "CTO",
     company: "Uniq Partner",
@@ -176,7 +176,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Florin optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Nemanja optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Jack Lee",
     designation: "CTO",
     company: "Functionate",
